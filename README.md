@@ -50,8 +50,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Projek ini digunakan untuk menganalisa sentimen masyarakat Indonesia di Twitter terhadap vaksin Astrazeneca
 
 
@@ -65,7 +63,7 @@ Projek ini digunakan untuk menganalisa sentimen masyarakat Indonesia di Twitter 
 Dalam pembuatan website ini digunakan beberapa tools diantaranya sebagai berikut:
 
 
-<img alt="Python" src="	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 <img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
 <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
